@@ -1,0 +1,120 @@
+/*首页*/
+#lunbotu{
+    margin-top: 51px;
+}
+#lunbotu img{
+    margin: 0 auto;
+}
+#jianjietop{
+    text-align: center;
+
+}
+#jianjietop h3{
+    color: blue;
+}
+.zhong{
+    margin-top: 3%;
+}
+.zhong img{
+    margin-right: 2%;
+    float: left;
+}
+#zhong2{
+    background-color: 	#E8E8E8;
+    margin-top: 3%;
+}
+#zhong21{
+    margin-top: 15%;
+}
+#zhong2 img{
+    width: 40%;
+}
+#zhong3{
+    margin-top: 3%;
+}
+#zhong3 img{
+    width: 65%;
+}
+#zhong31{
+    margin-top: 10%;
+}
+#bottom{
+    background-color:#666666;
+    margin-top: 3%;
+}
+#bottom1{
+    margin-top: 1%;
+    color: #ffffff;
+}
+
+/*案例*/
+#top{
+    background: url("../img/bg.jpg");
+    height: 200px;
+}
+#top1{
+    margin-top: 100px;
+    margin-left:12%;
+    color:#ffffff;
+}
+body{
+    background: #f8f8f8;
+}
+.anli{
+    border-radius: 10px 10px 10px 10px;
+}
+.anli img{
+    width: 100%;
+}
+
+/*关于*/
+
+#guanyu2{
+    margin-top:2%;
+}
+#guanyu2 ul{
+    background-color:#ffffff;
+    border-radius: 5px 5px 5px 5px;
+}
+#guanyu2 ul li{
+    line-height: 200%;
+    border: 1px solid #eeeeee;
+    padding-left: 10%;
+    color: #337ab7;
+}
+#guanyu3{
+    margin-top: 2%;
+    background-color:#ffffff;
+}
+/*咨询*/
+#zixun{
+    margin-top: 2%;
+}
+#zixunyou{
+    border-left: 5px solid #e8e8e8;
+    padding-left: 3%;
+    margin-left: 3%;
+}
+#zixun1 div{
+    background-color: #ffffff;
+}
+#zixun1 .media-body{
+    padding-left: 3%
+}
+
+#zixun1 img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    height: 50%;
+}
+#zixun2{
+    background-color: #ffffff;
+}
+#zixun2 img{
+    height: 25%;
+    margin-left: 5%;
+}
+#zixun2 .media-body{
+    padding-left: 3%
+}
